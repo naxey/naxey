@@ -1,5 +1,8 @@
 ### Hi there, I'm Max👋
 
+![](https://github.com/naxey/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/naxey/github-stats/blob/master/generated/languages.svg)
+
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naxey&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naxey&layout=compact&theme=dark) -->
 
