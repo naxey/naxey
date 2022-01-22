@@ -30,8 +30,8 @@
 <p><a href="https://www.buymeacoffee.com/naxey"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="naxey" /></a><a href="https://ko-fi.com/naxey"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="naxey" /></a></p><br><br>
 
 
-![](https://github.com/naxey/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/naxey/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/naxey/jstriebs-github-stats/blob/master/generated/overview.svg)
+![](https://github.com/naxey/jstriebs-github-stats/blob/master/generated/languages.svg)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naxey&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naxey&layout=compact&theme=dark) -->
