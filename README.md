@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **NextJS, Remix and Nx**
 
-- 👨‍💻 All of my projects are available at [naxey.dev](naxey.dev)
+- 👨‍💻 All of my projects are available at [naxey.dev](https://naxey.dev)
 
 - 💬 Ask me about **nodejs and react**
 
 - 📫 How to reach me **max@naxey.de**
 
-- 📄 Know about my experiences [naxey.de](naxey.de)
+- 📄 Know about my experiences [naxey.de](https://naxey.de)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
