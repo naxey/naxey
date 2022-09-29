@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on [pm2-discord-plus](https://github.com/naxey/pm2-discord-plus)
 
-- 🌱 I’m currently learning **NextJS, Remix and Nx**
+<!-- - 🌱 I’m currently learning **NextJS, Remix and Nx** -->
+- 🌱 I’m currently learning **Vue and Vite**
 
 - 👨‍💻 All of my projects are available at [naxey.dev](https://naxey.dev)
 
