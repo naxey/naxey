@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">Webdeveloper with a passion for art</h3>
 
-- 🔭 I’m currently working on [pm2-discord-plus](https://github.com/naxey/pm2-discord-plus)
+- 🔭 I’m currently working on [pm2-discord-plus](https://github.com/naxey/pm2-discord-plus) and [SiriusBot.com](https://siriusbot.com)
 
 <!-- - 🌱 I’m currently learning **NextJS, Remix and Nx** -->
 - 🌱 I’m currently learning **Vue, Nuxt and Vite**
