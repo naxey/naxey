@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [naxey.dev](https://naxey.dev)
 
-- 💬 Ask me about **nodejs, djs and react**
+- 💬 Ask me about **nodejs or python**
 
 - 📫 How to reach me **max@naxey.de**
 
