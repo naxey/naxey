@@ -30,10 +30,6 @@
 <!-- ![](https://github.com/naxey/jstriebs-github-stats/blob/master/generated/overview.svg) -->
 ![](https://github.com/naxey/jstriebs-github-stats/blob/master/generated/languages.svg)
 
-<p>
-  Yes I'm aware that I completely tanked this statistic with my ipynb upload. I'll fix this soon.
-</p>
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/naxey"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="naxey" /></a><a href="https://ko-fi.com/naxey"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="naxey" /></a></p><br><br>
 
