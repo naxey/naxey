@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [naxey.dev](https://naxey.dev)
 
-- 💬 Ask me about **TypeScript or Python**
+- 💬 Ask me about **DevOps and DataScience**
 
 - 📫 How to reach me **max@naxey.de**
 
