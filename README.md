@@ -4,7 +4,9 @@
 - 🔭 I’m working on [pm2-discord-plus](https://github.com/naxey/pm2-discord-plus) and updating my websites
 
 <!-- - 🌱 I’m currently learning **NextJS, Remix and Nx** -->
-- 🌱 I’m currently learning **VIM, Vue, Nuxt and Vite**
+- 🌱 I’m currently learning **VIM and Expo**
+
+- 👷‍♂ When building things I usually go for **Vue, Typescript or Python** depending on the task
 
 - 👨‍💻 All of my projects are available at [naxey.dev](https://naxey.dev)
 
