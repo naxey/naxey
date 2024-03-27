@@ -33,8 +33,8 @@
 
 <h3 align="left">Stats:</h3>
 
-![](https://github.com/naxey/jstriebs-github-stats/blob/beta/generated/overview.svg)
-![](https://github.com/naxey/jstriebs-github-stats/blob/beta/generated/languages.svg)
+![](https://github.com/naxey/jstriebs-github-stats/blob/master/generated/overview.svg)
+![](https://github.com/naxey/jstriebs-github-stats/blob/master/generated/languages.svg)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/naxey"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="naxey" /></a><a href="https://ko-fi.com/naxey"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="naxey" /></a></p><br><br>
