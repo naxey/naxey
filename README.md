@@ -8,7 +8,7 @@
 
 - 👷‍♂ When building things I usually go for **Vue, Typescript or Python** depending on the task
 
-- 👨‍💻 All of my projects are available at [naxey.dev](https://naxey.dev)
+<!-- - 👨‍💻 All of my projects are available at [naxey.dev](https://naxey.dev) -->
 
 - 💬 Ask me about **DevOps and DataScience**
 
