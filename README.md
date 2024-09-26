@@ -4,7 +4,7 @@
 - 🔭 I’m working on [pm2-discord-plus](https://github.com/naxey/pm2-discord-plus) and an unreleased mobile-app
 
 <!-- - 🌱 I’m currently learning **NextJS, Remix and Nx** -->
-- 🌱 I’m currently learning **VIM and Expo**
+- 🌱 I’m currently learning **nvim and expo**
 
 - 👷‍♂ When building things I usually go for **Vue, Typescript or Python** depending on the task
 
