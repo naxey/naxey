@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">Web- and software-developer with a passion for art</h3>
 
-- 🔭 I’m working on [pm2-discord-plus](https://github.com/naxey/pm2-discord-plus) and an unreleased mobile-app
+- 🔭 I’m working on an unreleased mobile-app
 
 <!-- - 🌱 I’m currently learning **NextJS, Remix and Nx** -->
 - 🌱 I’m currently learning **nvim and expo**
