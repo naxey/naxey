@@ -1,25 +1,23 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">Web- and software-developer with a passion for art</h3>
 
-- 🔭 I’m working on an unreleased mobile-app
+-   🔭 I’m working on an unreleased mobile-app
 
-<!-- - 🌱 I’m currently learning **NextJS, Remix and Nx** -->
-- 🌱 I’m currently learning **nvim and expo**
+-   🌱 I’m currently learning **nvim and expo**
 
-- 👷‍♂ When building things I usually go for **Vue, Typescript or Python** depending on the task
+-   👷‍♂ When building things I usually go for **Vue, Typescript or Python** depending on the task
 
-<!-- - 👨‍💻 All of my projects are available at [naxey.dev](https://naxey.dev) -->
+-   💬 Ask me about **DevOps and DataScience**
 
-- 💬 Ask me about **DevOps and DataScience**
-
-- 📫 How to reach me **max@naxey.de**
-
-- 📄 Know about my experiences [naxey.de](https://naxey.de)
+-   📄 Know about my experiences and projects: [naxey.dev](https://naxey.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://dev.to/naxey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="naxey" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/naxey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naxey" height="30" width="40" /></a>
+
+or say **hi**_@maxhoffmann.dev_ 📫
+
 <!-- <a href="https://stackoverflow.com/users/12657665" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12657665" height="30" width="40" /></a> -->
 <!-- <a href="https://medium.com/@naxey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="naxey" height="30" width="40" /></a> -->
 <!-- <a href="https://www.hackerrank.com/naxey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="naxey" height="30" width="40" /></a> -->
