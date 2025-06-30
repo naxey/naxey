@@ -5,7 +5,7 @@
 
 -   🌱 I’m currently learning **nvim and rust**
 
--   👷‍♂ When building things I usually go for **Vue, Typescript or Python** depending on the task
+-   👷‍♂ When building things I usually work with **Typescript**
 
 -   📄 Know about my experiences and projects: [naxey.dev](https://naxey.dev)
 
