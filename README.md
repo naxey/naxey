@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">Web- and software-developer with a passion for art</h3>
 
--   🔭 I’m working on an unreleased mobile-app with **expo**
+-   🔭 I’m working on an [unreleased mobile-app](https://homie.fentekk.com) with **expo**
 
 -   🌱 I’m currently learning **nvim and rust**
 
