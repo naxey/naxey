@@ -2,11 +2,9 @@
 <h3 align="center">Web- and software-developer with a passion for art</h3>
 
 -   🔭 I’m working on an [unreleased mobile-app](https://homie.fentekk.com) with **expo**
-
 -   🌱 I’m currently learning **nvim and rust**
-
 -   👷‍♂ When building things I usually work with **Typescript**
-
+-   😎 Talk with me about ***nix/nixos*** and ***homelabbing***
 -   📄 Know about my experiences and projects: [naxey.dev](https://naxey.dev)
 
 <h3 align="left">Connect with me:</h3>
