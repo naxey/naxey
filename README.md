@@ -20,7 +20,7 @@
 
 <h3 align="left">Stats:</h3>
 
-![](https://github.com/naxey/jstriebs-github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/naxey/jstriebs-github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/naxey/jstriebs-github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/naxey/jstriebs-github-stats/blob/generated/languages.svg#gh-dark-mode-only)
 
 > I sort all interesting projects I find on Github into my ★ star-folders. Follow me to get notified when I find more cool stuff ^^
