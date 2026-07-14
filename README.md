@@ -9,7 +9,7 @@
 
 -   ❄️ Talk with me about **nix/nixos** and **homelabbing**
 
--   📄 Know about my experiences and projects: [naxey.dev](https://naxey.dev)
+-   📄 Know about my experiences and projects: [maxhoffmann.dev](https://maxhoffmann.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
